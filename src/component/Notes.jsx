@@ -8,7 +8,7 @@ export default class Notes extends Component {
     this.state = {
       notes: [],
     };
-    this.URL = 'http://localhost:7777/notes';
+    this.URL = 'https://react6-2-server.herokuapp.com/notes';
   }
 
   render() {
