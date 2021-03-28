@@ -12,7 +12,7 @@
     "styled-components": "^5.2.1",
     "web-vitals": "^1.0.1"
   },
-  "homepage": "https://github.com/teejay74/react6-2",
+  "homepage": "https://teejay74.github.io/react6-2/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
